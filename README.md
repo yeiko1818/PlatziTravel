@@ -1,2 +1,2 @@
-#Project using tailwindcss
-#https://yeiko1818.github.io/PlatziTravel/
+# Project using tailwindcss
+# https://yeiko1818.github.io/PlatziTravel/public
